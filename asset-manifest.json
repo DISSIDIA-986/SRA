@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SRA/static/css/main.a6ee2040.css",
+    "main.js": "/SRA/static/js/main.fbf19da8.js",
+    "static/js/453.42b8e57f.chunk.js": "/SRA/static/js/453.42b8e57f.chunk.js",
+    "index.html": "/SRA/index.html",
+    "main.a6ee2040.css.map": "/SRA/static/css/main.a6ee2040.css.map",
+    "main.fbf19da8.js.map": "/SRA/static/js/main.fbf19da8.js.map",
+    "453.42b8e57f.chunk.js.map": "/SRA/static/js/453.42b8e57f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ee2040.css",
+    "static/js/main.fbf19da8.js"
+  ]
+}
